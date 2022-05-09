@@ -13,7 +13,7 @@ There were many simple things that we would have done. But, we thought let's pus
 
 
 ### [Project Report](https://github.com/MumukshTayal/Mathematical-model-NN/blob/main/Report.pdf)
-### [Code](https://github.com/MumukshTayal/Mathematical-model-NN/blob/main/Report.pdf)
+### [Code](https://github.com/MumukshTayal/Mathematical-model-NN/blob/main/Project_Code.ipynb)
 
 ## License
 
