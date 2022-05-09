@@ -12,8 +12,8 @@ Understanding the effects of variation of parameters (like advertisements, impre
 There were many simple things that we would have done. But, we thought let's push ourselves a step further and go, research, and learn on a completely new topic. We are glad that we have learnt something different from the textbooks and thoroughly understood and enjoyed the concept which is quite widespread nowadays. We would like to thank the professors for giving us an opportunity to do such a project.
 
 
-### [Project Report]()
-### [Code]()
+### [Project Report](https://github.com/MumukshTayal/Mathematical-model-NN/blob/main/Report.pdf)
+### [Code](https://github.com/MumukshTayal/Mathematical-model-NN/blob/main/Report.pdf)
 
 ## License
 
